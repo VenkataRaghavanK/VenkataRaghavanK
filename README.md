@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **<br>🚀 Machine Learning <br>🔍 Data Analytics**
 
-- 👯 I’m looking to collaborate on **👥 Open Source Projects 👥, 📚 Educational Content**
+- 👯 I’m looking to collaborate on **<br>👥 Open Source Projects 👥 <br>📚 Educational Content**
 
-- 📫 How to reach me **📧 Email: venkat22200310@gmail.com**
+- 📫 How to reach me **<br>📧 Email: venkat22200310@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataraghavank&label=Profile%20views&color=0e75b6&style=flat" alt="venkataraghavank" /> </p>
 
-- 🌱 I’m currently learning **🚀 Machine Learning, 🔍 Data Analytics**
+- 🌱 I’m currently learning **<br>🚀 Machine Learning <br>🔍 Data Analytics**
 
 - 👯 I’m looking to collaborate on **👥 Open Source Projects 👥, 📚 Educational Content**
 
